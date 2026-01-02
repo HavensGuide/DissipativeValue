@@ -19,13 +19,4 @@ Information-geometric analysis of NYC real estate transactions (2015-2024) using
 - Thermodynamic decomposition (Oono-Paniconi framework)
 
 **Contact:** kaicobbs4@gmail.com
-```
 
-**Then your footer becomes:**
-```
-Kai Cobbs
-Independent Researcher, Divergence Lab
-linkedin.com/in/kai-cobbs-07535322a
-kaicobbs4@gmail.com | 862-208-9438
-
-Paper & Code: github.com/HavensGuide/DissipativeValue
