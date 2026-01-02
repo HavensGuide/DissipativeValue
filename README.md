@@ -15,7 +15,7 @@ Information-geometric analysis of NYC real estate transactions (2015-2024) using
 ## Methods
 - Continuous-time kernel density estimation with causal constraints
 - Fokker-Planck inversion for drift/diffusion extraction
-- Information-geometric measures (Fisher information, Wasserstein distances)
+- Information-geometric measures (Fisher information, Wasserstein geodesics via housekeeping reconstruction)
 - Thermodynamic decomposition (Oono-Paniconi framework)
 
 **Contact:** kaicobbs4@gmail.com
