@@ -16,7 +16,19 @@ Information-geometric analysis of NYC real estate transactions (2015-2024) using
 - Continuous-time kernel density estimation with causal constraints
 - Fokker-Planck inversion for drift/diffusion extraction
 - Information-geometric measures (Fisher information, Wasserstein geodesics via housekeeping reconstruction)
-- Thermodynamic decomposition (Oono-Paniconi framework)
+- Thermodynamic decomposition (Oono-Paniconi framework) 
+
+Here are some html files created with plotly that have full 3d maneuverability and show different aspects of the Madelung Object aswell:
+
+- Base 3D Visualization: https://github.com/HavensGuide/DissipativeValue/blob/main/market_evolution_4d(10YRS%2C%20REAL%20USD).html
+
+- Trace of the Spatial Fisher Information Metric: https://github.com/HavensGuide/DissipativeValue/blob/main/metric_instability_field.html
+
+- Information Kinetic Energy Density: https://github.com/HavensGuide/DissipativeValue/blob/main/kinetic_energy_density.html
+
+- Where Each Borough Dominates: https://github.com/HavensGuide/DissipativeValue/blob/main/nyc_borough_territories.html
+
+- Video of the Streamlines of the Information Gradient: https://github.com/HavensGuide/DissipativeValue/blob/main/market_flow_2d.mp4
 
 **Contact:** kaicobbs4@gmail.com
 
